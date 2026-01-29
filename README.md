@@ -57,7 +57,11 @@ Please check the [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## About + Credits due
 
-> DanPlus6 did not invent discovered Trump Sort [on a medium.com article](https://github.com/gustavo-depaula/stalin-sort)
+> DanPlus6 does not claim ownership, posession, or credit for invention to the Trump Sort algorithm, rather "Trump Sort" was discovered from [a medium.com article by Gant Laborde](https://gantlaborde.medium.com/trump-sort-a-new-sorting-algorithm-b37b1133356a) and implemented here in code by DanPlus6 and other maintainers/contributors on GitHub
 
 > Trump Sort was found out of curiosity after discovery of [Stalin Sort](https://github.com/gustavo-depaula/stalin-sort), which DanPlus6 found from [a discussion on DMOJ](https://dmoj.ca/problem/miraclesort#comment-22524)
+
+----------------------------------------
+
+<sup> Please note that "Trump Sort", or this repository at least, was created purely as a joke and is not meant to offend anyone. I/We express my/our sincerest apologies if it does. </sup>
 
