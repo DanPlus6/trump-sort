@@ -59,5 +59,5 @@ Please check the [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 > DanPlus6 did not invent discovered Trump Sort [on a medium.com article](https://github.com/gustavo-depaula/stalin-sort)
 
-> Trump Sort was found out of curiosity after discovery of [Stalin Sort](https://github.com/gustavo-depaula/stalin-sort), which DanPlus6 found from [a discussion on DMOJ](<img width="1281" height="197" alt="image" src="https://github.com/user-attachments/assets/e34ffa98-3567-4dad-80b1-513be713b182" />)
+> Trump Sort was found out of curiosity after discovery of [Stalin Sort](https://github.com/gustavo-depaula/stalin-sort), which DanPlus6 found from [a discussion on DMOJ](https://dmoj.ca/problem/miraclesort#comment-22524)
 
