@@ -1,7 +1,7 @@
 
 # Welcome to the Trump Sort Repo :clipboard:
 
-<img width="715" height="251" alt="image" src="https://github.com/user-attachments/assets/a4e611ff-f7ab-400b-8e0a-2a566ce2fb0f" />
+![poster](https://github.com/user-attachments/assets/a4e611ff-f7ab-400b-8e0a-2a566ce2fb0f)
 
 ## What is Trump Sort? :question:
 
