@@ -36,12 +36,12 @@ Keep in mind that this is pseudocode, and is just an example. We strongly encour
 FUNCTION trumpSort(A : list OF sortable items)
     n := length(A)
     wall := A[0]
-    B SET empty list
+    citizens SET empty list
 
     FOR i := 1 TO n NOT inclusive DO
         IF A[i] >= bigger THEN
           wall := A[i]
-          B.push(A[i])
+          citizens.push(A[i])
         END IF
     END FOR
 
