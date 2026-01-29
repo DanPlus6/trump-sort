@@ -31,7 +31,7 @@ V "bro i aint readin' allat" - well neither am I, so check out this step-by-step
 
 Keep in mind that this is pseudocode, and is just an example. We strongly encourage you to code a different approach. 
 
-```
+```pseudocode
 FUNCTION trumpSort(A : list OF sortable items)
     n := length(A)
     wall := A[0]
