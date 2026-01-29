@@ -25,7 +25,7 @@ V "bro i aint readin' allat" - well neither am I, so check out this step-by-step
 4. (1 2 **5** 3 5 7) -> (1 2 **5** 5 7 3) Since the 4th element is shorter than the wall, the 4th element will be deported.
 5. (1 2 **5** 5 7) -> (1 2 5 **5** 7 3) Equal elements are preserved
 6. (1 2 5 **5** 7 3) -> (1 2 5 5 **7** 3) Larger element, so new wall
-7. (1 2 5 5 7 **|** 3) End of loop; since 7 was the wall, you can now discard all deported elements behind it.
+7. (1 2 5 5 **7 |** 3) End of loop; since 7 was the wall, you can now discard all deported elements behind it.
 8. **(1 2 5 5 7)** Sorted array yay!
 
 ### Pseudocode implementation
