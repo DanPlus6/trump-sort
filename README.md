@@ -13,7 +13,7 @@ Trump Sort is a highly efficient sorting algorithm, serving as a systematic meth
 
 It's pretty simple, all you need to do is iterate N times through the elements of the array (with N being the length of the unsorted array), checking if its elements are in order. You keep track of a temprorary variable known as the "wall"; whenever you encounter an element greater than the last, that is your new "wall". Any element occuring after the wall and is lesser than the wall will be removed and appended to the end of the array, in other words "deported to the East". Finally, once you have iterated through N elements, the magic happens! Your "wall" is the largest element in the array and none of the "deported" elements "behind the wall" can return, thus we can now discard all elements behind the wall and you're left with a sorted array!
 
-V "bro i aint readin' allat" - well neither am I, so check out this step-by-step example below V
+V | "bro i aint readin' allat" - well neither am I, so check out this step-by-step example below | V
 
 ### Step-by-step example
 
