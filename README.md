@@ -45,7 +45,7 @@ FUNCTION trumpSort(A : list OF sortable items)
         END IF
     END FOR
 
-    RETURN B
+    RETURN citizens
 END FUNCTION
 ```
 
