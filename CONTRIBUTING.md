@@ -28,7 +28,7 @@ For the purpuses of this repo, we defined some rules that your code must to foll
 
 ## 3. Ready, Steady, Go... :turtle: :rabbit2:
 
-Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` issues and creating [pull requests](https://github.com/DanPlus6/trump-sort/pulls).
+Once you have completed these steps, you are ready to start contributing by checking our [issues](https://github.com/DanPlus6/trump-sort/issues) and creating [pull requests](https://github.com/DanPlus6/trump-sort/pulls).
 
 ## 4. Give this Project a Star :star:
 
