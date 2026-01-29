@@ -37,7 +37,7 @@ FUNCTION trumpSort(A : list OF sortable items)
     citizens := [A[0]]
 
     FOR i := 1 TO n NOT inclusive DO
-        IF A[i] >= bigger THEN
+        IF A[i] >= wall THEN
           wall := A[i]
           citizens.push(A[i])
         END IF
