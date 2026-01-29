@@ -5,7 +5,7 @@ We're accepting help from anyone! This repo is collaborative, so if you want to 
 
 ## 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [Trump Sort]([https://github.com/gustavo-depaula/stalin-sort](https://github.com/DanPlus6/trump-sort)) by clicking [this](https://github.com/DanPlus6/trump-sort/new/main?readme=1#fork-destination-box).
+You can get your own fork/copy of [Trump Sort]([https://github.com/gustavo-depaula/stalin-sort](https://github.com/DanPlus6/trump-sort)) by clicking [this](https://github.com/DanPlus6/trump-sort/fork).
 
 ## 2. Start coding! :rabbit2:
 
